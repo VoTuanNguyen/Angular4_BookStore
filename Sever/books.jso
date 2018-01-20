@@ -1,0 +1,104 @@
+﻿/*tạo collection books và thêm dữ liệu bên dưới vào*?
+/* 1 */
+{
+    "_id" : ObjectId("59febac979309a2ebc92115c"),
+    "title" : "Thành công không còn là bí mật",
+    "author" : "Noah St. John",
+    "publisher" : "Chưa rõ",
+    "price" : 5,
+    "category" : "Sách làm giàu",
+    "description" : "Thành công không còn là bí mật của tác giả Noah là một bước nhảy vọt đáng kể. Trong một thế hệ, hiếm có ai chịu loay hoay tìm câu trả lời vừa đơn giản vừa hiệu quả cho câu hỏi cũ rích: “Tại sao có quá nhiều người tự tước đi thành công của bản thân mà lẽ ra họ có khả năng đạt được?”\n\nQuan trọng hơn hết, cách Noah giải quyết vấn đề sẽ giúp bạn – dù bạn đang giàu có hay nghèo khổ, hạnh phúc hay bất hạnh, thất bại hay thành công – nhấc chân khỏi bàn đạp thắng và cho phép bản thân mình gặt hái nhiều thành công rạng rỡ hơn trong cuộc sống, sự nghiệp, và các mối quan hệ mà bạn chưa bao giờ được hưởng.\n\nDù khía cạnh bạn mong muốn cải thiện trong cuộc sống là gì – kiếm được nhiều tiền hơn, có thêm thời gian nghỉ ngơi, củng cố các mối quan hệ, nâng cao hiệu suất làm việc, giảm cân, hay trở nên tự tin hơn – Noah không chỉ giúp bạn đạt được mục tiêu… anh còn chỉ cho bạn cách đạt được chúng nhanh chóng hơn, dễ dàng hơn và ít nhọc sức hơn hẳn hiện tại!",
+    "cover" : "http://www.taisachhay.com/wp-content/uploads/2016/01/thanh-cong-khong-con-la-bi-mat.jpg",
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5a012ae30f4c60f8c6a85c4b"),
+    "title" : "10 sự khác biệt nhất giữa kẻ giàu và người nghèo",
+    "author" : "Keith Cameron Smith",
+    "publisher" : "Alpha books",
+    "price" : 10,
+    "category" : "Sách kinh tế",
+    "description" : "Nếu bạn sẵn sàng tham gia vào cuộc hành trình bước vào thế giới của sự sung túc và giàu có, thì cuốn 10 Điều Khác Biệt Giữa Kẻ Giàu Và Người Nghèo xứng đáng là một tấm vé hạng nhất cho bạn. Trong cuốn sách có thể tạo nên sự thay đổi lớn về cuộc sống này, doanh nhân, diễn giả nổi tiếng Keith Cameron Smith sẽ chỉ cho bạn cách thức tư duy như một triệu phú và thu về lợi nhuận nhờ tư duy “triệu phú” đó.\n\nCuốn sách 10 Điều Khác Biệt Nhất Giữa Kẻ Giàu Và Người Nghèo có thể giúp bạn rời xa thế giới nghèo khó, để bước lên nấc thang cao hơn nhờ 10 nguyên tắc vàng bao gồm:\n– Người giàu tư duy dài hạn, người nghèo tư duy ngắn hạn.\n– Người giàu làm việc vì lợi nhuận, người nghèo làm việc vì lương.\n– Người giàu tự hỏi những câu tích cực, người nghèo tự hỏi những câu tiêu cực.\n….",
+    "cover" : "http://www.taisachhay.com/wp-content/uploads/2015/04/10-dieu-khac-biet-nhat-giua-ke-giau-va-nguoi-ngheo.jpg",
+    "__v" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5a012af00f4c60f8c6a85c57"),
+    "title" : "Thông minh cảm xúc thế kỷ 21",
+    "author" : "Travis Bradberry & Jean Greaves",
+    "publisher" : "TGM Books",
+    "price" : 2,
+    "category" : "Bút ký",
+    "description" : "\"Một quyển sách súc tích với những câu chuyện đầy sức thuyết phục cùng nội dung hấp dẫn giúp bạn thấu hiểu và cải thiện mình\" - Newsweek\n\n\"Các phương pháp rất đáng xem về những kỹ năng trí tuệ cảm xúc đã biến cuốn sách này thành cuốn cẩm nang nổi bật nhất trong tuần cảu chúng tôi. Thật vui khi biết rằng chỉ số thông minh (IQ) trung bình của một người không giới hạn người đó ở mức thành tích trung bình\" - Newsday\n\n\"Trí tuệ cảm xúc là một kỹ năng đặc biệt quan trọng để thành công trong sự nghiệp và cuộc sống. Đây là một quyển sách tuyệt vời mà bạn nên đọc\" - Ken Blanchard\n\n15 phương pháp giúp bạn nâng cao kỹ năng tự nhận thức\n\n17 phương pháp giúp bạn rèn luyện kỹ năng làm chủ bản thân\n\n17 phương pháp giúp bạn mài giũa kỹ năng nhận thức xã hội\n\n17 phương pháp giúp bạn tăng cường kỹ năng làm chủ mối quan hệ\n\nCó cả thảy 66 phương pháp cho bạn thỏa sức áp dụng vào cuộc sống hàng ngày, và quan sát EQ của mình tăng dần tăng dần để gặt hái những thành quả xứng đáng. Muốn thực hành tốt thì phải hiểu, do đó, cuốn sách Thông Minh Cảm Xúc của hai tác giả Travis Bradberry & Jean Greaves là bộ cẩm nang toàn tập không thể thiếu cho những ai muốn hạnh phúc và thành công hơn thông qua việc tăng cường EQ của mình.",
+    "cover" : "https://v2.tikicdn.com/cache/550x550/media/catalog/product/t/h/thong-minh-cam-xuc.jpg",
+    "__v" : 0
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5a012af80f4c60f8c6a85c5b"),
+    "title" : "Chiến lược IELTS 7.0",
+    "author" : " Võ Trung Kiên",
+    "publisher" : " Võ Trung Kiên",
+    "price" : 5,
+    "category" : "Sách kinh tế",
+    "description" : "ó thể bạn đang cần IELTS để phục vụ công việc, học tập. Có thể bạn đang cần IELTS để du học hoặc định cư ở một nước nói tiếng Anh. Hoặc chỉ đơn giản là bạn đang muốn hoàn thiện các kỹ năng Anh ngữ, nghe nói đọc viết, của mình.\n\nDù là mục đích nào đi nữa thì tôi tin bạn đã lựa chọn đúng.\n\nCuốn sách này là tổng hợp những tâm huyết, kinh nghiệm và cả sai lầm trong việc học Anh ngữ và thi IELTS của tôi và những người đi trước. Mục đích khi tôi viết cuốn sách này là để giúp các bạn đi sau chinh phục được mục tiêu học tiếng Anh của mình một cách nhanh chóng và dễ dàng nhất.",
+    "cover" : "http://www.taisachhay.com/wp-content/uploads/2015/06/chien-luoc-ielts-7.jpg",
+    "__v" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5a012b000f4c60f8c6a85c62"),
+    "title" : "Anh ấy không nắm tay tôi",
+    "author" : "Hiên",
+    "publisher" : "NXB Phụ nữ",
+    "price" : 3,
+    "category" : "Tản Văn",
+    "description" : "Trên đời này không có cái gì gọi là duy nhất. Chỉ có thể trách mình không phải là người cuối cùng trong đời họ mà thôi.\n\nĐôi khi, tình yêu có những nghịch lý mà không ai có thể giải thích được: Khi ai đó vứt bỏ, ta lại cố sức chạy theo lượm nhặt những mảnh vụn để cố ghép thành một bức tranh hạnh phúc. Nhưng càng ghép thì chỉ làm tổn thương thêm lòng tự trọng của mình.\n\nVà người ta cũng vẫn hay nói: “Bạn có thể sống suốt đời với một nỗi buồn chứ có khi nào sống suốt đời với một niềm vui đâu”. Niềm vui đến nhanh và cũng trôi đi chóng vánh lắm, duy chỉ có nỗi buồn làm cho ta dằn vặt, đớn đau.\n\nAnh ấy đã không nắm tay tôi mang một nỗi buồn vảng vất của những mối tình dở dang như thế:\n\nĐó là những dòng nhớ thương da diết của mối tình đầu chẳng kịp đặt tên.\n\nLà câu chuyện một cô gái ngốc nghếch cứ mãi đợi một người đã rời bỏ mình ra đi mãi mãi.\n\nLà chuyện anh chồng dù có hẹn với bạn nhậu vẫn không quên chạy qua nhà cắm giúp vợ nồi cơm trước giờ tan tầm.\n\nLà chuyện mẹ kể về bố với vô vàn những điều vô lý trên đời. Ấy vậy mà với mẹ, nó lại trở thành những điều có lý và đáng yêu vô cùng.\n\nVà trong mỗi giai đoạn của cuộc đời, chúng ta rồi sẽ gặp nhiều người, đối mặt với nhiều thứ. Có thể sẽ cùng nhau sánh bước nhưng có ai chắc rằng sẽ là mãi mãi?\n\nChỉ là khi tìm được người đúng nhất, cùng nhau trải qua muôn bậc cảm xúc, đủ loại gian khổ trên đời ta mới biết quý trọng mà cố gắng, mới biết đâu là một nửa đích thực của đời mình.\n\nAnh ấy đã không nắm tay tôi, và sẽ còn một bàn tay khác đứng đợi.\n\nBởi cuộc sống này đâu chỉ có những nỗi buồn. Ngoài kia mặt trời vẫn chiếu những tia nắng mới. Ngoài kia, chim vẫn hót véo von cho một ngày nắng đẹp. Ngoài kia, có nhiều con đường để lựa chọn, nhiều niềm vui để tận hưởng hết. Và ngoài kia, cuộc đời vẫn đang gọi bằng những tiếng gọi yêu thương…\n\nNhớ nhé cô gái, sống trọn cho mình từng phút giây mình đang có để còn thấy đời tươi đẹp lắm, đáng tận hưởng lắm.\n\nVà hãy tin rằng mọi chuyện sẽ ổn, sẽ kết thúc tốt đẹp. Nếu nó chưa tốt đẹp thì đó vẫn chưa phải là kết thúc.\n\nBởi yêu thương là một hành trình, dù đích đến là gì thì nó vẫn là một hành trình đáng nhớ. Chuyện chia tay cũng chỉ là biến cố nhỏ trong vô vàn những điều vạn biến trong cuộc đời này mà thôi.",
+    "cover" : "http://www.taisachhay.com/wp-content/uploads/2017/10/anh-ay-da-khong-nam-tay-toi.jpg",
+    "__v" : 0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5a012b080f4c60f8c6a85c68"),
+    "title" : "Cánh đồng bất tận",
+    "author" : "Nguyễn Ngọc Tư",
+    "publisher" : "Chưa rõ",
+    "price" : 3,
+    "category" : "Truyện ngắn",
+    "description" : "Cánh đồng bất tận là tên một tập truyện ngắn phát hành năm 2005 của Nguyễn Ngọc Tư, đồng thời cũng là tên một truyện trong tập truyện ngắn đó được đăng báo lần đầu cùng năm. Tính đến nay, tập truyện đã được phát hành dưới dạng sách in và sách nói. Một vài truyện ngắn trong tuyển tập đã được chuyển thể thành phim và kịch.\n\nCánh đồng bất tận và tập truyện ngắn cùng tên đã được dư luận phản hồi tích cực. Tập truyện đã trở thành một hiện tượng xuất bản của văn học Việt Nam với 108.000 bản được tiêu thụ tính đến năm 2010, nhất là sau khi bộ phim dựa trên truyện vừa cùng tên được ra mắt cùng năm.\n\nCùng trong năm 2005, Cánh đồng bất tận được đứng đầu trong một cuộc bình chọn truyện ngắn đặc sắc trên báo Văn nghệ. Vào năm 2006, tập truyện đoạt Giải thưởng Hội Nhà văn Việt Nam dành cho tác phẩm xuất sắc. Năm 2007, tác phẩm được dịch ra tiếng Hàn và được nhà xuất bản Asia tại Seoul phát hành. Năm 2008, tập truyện được dịch qua tiếng Thuỵ Điển với tên Fält utan slut.\n\nNăm 2009, Cánh đồng bất tận được dựng thành kịch sân khấu công diễn tại Nhà hát kịch 5B và được đạo diễn bởi Minh Nguyệt, với sự tham gia diễn xuất của diễn viên Thanh Thủy. Năm 2010, truyện được chuyển thể thành phim nhựa cùng tên đạo diễn bởi Nguyễn Phan Quang Bình. Phim có sự tham gia của Dustin Nguyễn, Hải Yến và Ninh Dương Lan Ngọc. Bộ phim đã thu được phản hồi trái chiều từ nhà phê bình và khản giả, tuy nhiên lời khen lại được đặc biệt dành cho diễn xuất của các diễn viên.\n\nCánh Đồng Bất Tận là câu chuyện về cuộc sống lênh đênh sông nước “theo vịt chạy đồng” của ba cha con ông Tư ( Dustin Nguyễn) và hai đứa trẻ Điền (Thanh Hoà), Nương (Lan Ngọc) thiếu vắng tình thương của người mẹ (Tăng Thanh Hà) và cuộc đời của người phụ nữ Sương (Hải Yến). Những mảnh đời không lành lặn trôi dạt nay đây mai đó theo con nước bị số phận run rủi gặp nhau, tưởng rằng đã có thể nương tựa lẫn nhau nhưng lại không thể ghép lại thành một gia đình trọn vẹn vì những mặc cảm cá nhân và trái ngang của số phận.",
+    "cover" : "http://www.taisachhay.com/wp-content/uploads/2016/01/canh-dong-bat-tan-nguyen-ngoc-tu.jpg",
+    "__v" : 0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5a012b0f0f4c60f8c6a85c6b"),
+    "title" : "Mỗi đứa trẻ một cách học",
+    "author" : "Cynthia Ulrich",
+    "publisher" : "Chưa rõ",
+    "price" : 5,
+    "category" : "Sách nuôi dạy con",
+    "description" : "Nhìn nhận mỗi đứa trẻ là một cá thể với cá tính riêng biệt, bạn mới không đi vào lối mòn rập khuôn và làm lệch lạc thiên hướng phát triển. Khi xác định đúng phong cách học tập của trẻ, bạn mới có thể khơi dậy tối đa khả năng tiềm tàng trong con trẻ.\n\nTất cả các bậc cha mẹ và thầy cô đều có chung một đích đến: những đứa trẻ sẽ trở thành học sinh xuất sắc và có niềm hứng khởi, say mê vô tận với việc học. Thế nhưng, không phải ai cũng đạt mục đích. Tại sao vậy? Vì ngoài tình yêu thương, sự kiên định và nỗ lực, điều quyết định cuối cùng là một phương pháp đúng.\n\nChỉ với việc nhìn nhận mỗi đứa trẻ là một cá thể với cá tính riêng biệt, bạn mới không đi vào lối mòn rập khuôn và làm lệch lạc thiên hướng phát triển. Chỉ khi xác định đúng phong cách học tập của trẻ, bạn mới có thể khơi dậy tối đa khả năng tiềm tàng trong con trẻ. Với Mỗi đứa trẻ một cách học, sự uyên bác, sự linh hoạt và những kiến giải sâu sắc, đầy kinh nghiệm của một chuyên gia giáo dục tài năng sẽ cung cấp cho bạn phương pháp tuyệt vời này.\n\nBạn sẽ tìm thấy ở đây lời giải đáp cho rất nhiều câu hỏi cốt lõi:\n\nPhong cách học tập của bản thân bạn và con bạn là gì?\n\nCách bố trí không gian, nhiệt độ, ánh sáng, thời gian học nào phù hợp nhất với phong cách ấy?\n\nĐâu là cách giúp con bạn tập trung và nhớ hiệu quả nhất?\n\nLàm thế nào để xác định những thế mạnh và hạn chế của con bạn và chính bản thân bạn trong quá trình học tập?\n\nĐâu là những sai lầm mà các bậc cha mẹ không bao giờ nên phạm phải?\n\nNên giúp trẻ học tập theo cách nào để hạn chế những bất đồng?\n\nBạn sẽ bắt đầu một hành trình mới mẻ và đầy thử thách, nhưng cuối cùng, chính bạn sẽ phải kinh ngạc với thành quả lớn lao mà cuốn sách này mang lại.",
+    "cover" : "http://www.taisachhay.com/wp-content/uploads/2015/12/moi-dua-tre-mot-cach-hoc.jpg",
+    "__v" : 0
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5a01351fd2bec910ac9d3017"),
+    "title" : "Sherlock Holmes Toàn Tập",
+    "author" : "Arthur Conan Doyle",
+    "publisher" : "Chưa rõ",
+    "price" : 5,
+    "category" : "Trinh thám - Kinh dị",
+    "description" : "Sherlock Holmes (phát âm tiếng Việt: Sê-lốc Hôm) là một nhân vật thám tử hư cấu vào cuối thế kỉ 19 và đầu thế kỉ 20, xuất hiện lần đầu trong tác phẩm của nhà văn Arthur Conan Doyle xuất bản năm 1887. Ông là một thám tử tư ở Luân Đôn nổi tiếng nhờ trí thông minh, khả năng suy diễn logic và quan sát tinh tường trong khi phá những vụ án mà cảnh sát phải bó tay. Nhiều người cho rằng Sherlock Holmes là nhân vật thám tử hư cấu nổi tiếng nhất trong lịch sử văn học và là một trong những nhân vật văn học được biết đến nhiều nhất trên toàn thế giới.\n\nSherlock Holmes đã xuất hiện trong 4 tiểu thuyết và 56 truyện ngắn của nhà văn Conan Doyle. Hầu như tất cả các tác phẩm đều được viết dưới dạng ghi chép của bác sĩ John H. Watson, người bạn thân thiết và người ghi chép tiểu sử của Sherlock Holmes, chỉ có 2 tác phẩm được viết dưới dạng ghi chép của chính Holmes và 2 tác phẩm khác dưới dạng ghi chép của người thứ ba. Hai tác phẩm đầu tiên trong số này, 2 tiểu thuyết ngắn, xuất hiện lần đầu tiên trên tờ Beeton’s Christmas Annual năm 1887 và tờ Lippincott’s Monthly Magazine năm 1890. Thám tử Holmes trở nên cực kì nổi tiếng khi loạt truyện ngắn của Doyle được xuất bản trên tạp chí The Strand Magazine năm 1891. Các tác phẩm được viết xoay quanh thời gian từ năm 1878 đến năm 1903 với vụ án cuối cùng vào năm 1914.\n\nNhân vật Sherlock Holmes còn được xuất hiện trong loạt tác phẩm trinh thám về Arsène Lupin của Maurice Leblanc.",
+    "cover" : "http://www.taisachhay.com/wp-content/uploads/2015/12/sherlock-holmes-sir-arthur-conan-doyle.jpg",
+    "__v" : 0
+}

@@ -1,0 +1,21 @@
+<div class="container">
+  <h1 class="well" style="text-align: center">Shopping Cart</h1>
+  <a (click)="emptyCart()">Clear Cart</a>
+  <hr>
+  <p *ngIf="shoppingCart.length == 0">Your cart is empty</p>
+  <table class="table table-bordered" *ngIf="shoppingCart.length > 0">
+    <tr>
+      <th>Item</th>
+      <th>Quantity</th>
+      <th>Total</th>
+      <th></th>
+    </tr>
+    <tr *ngFor="let item of shoppingCart">
+      <td>{{ item.item }}</td>
+      <td>{{ item.quantity }}</td>
+      <td>{{ item.total }}</td>
+      <td style="text-align:center"><Button class="btn btn-danger" (click)="deleteCart(item.item)">Delete</Button></td>
+    </tr>
+  </table>
+  <h4 *ngIf="shoppingCart.length > 0"><strong>Total: ${{ total.toFixed() }}</strong></h4>
+</div>

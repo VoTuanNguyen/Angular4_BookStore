@@ -1,0 +1,15 @@
+<div class="container">
+	<h1 class="well" style="text-align: center">List of Books</h1>
+	<div class="row">
+		<div class="col-md-3 col-sm-3" style="margin-bottom: 20px" *ngFor="let book of bookList">
+			<img src="{{ book.cover }}" style="height: 400px; width: 250px" class="thumbnail">
+			<h4 class="title" style="height: 35px">{{ book.title }}</h4>
+			<div class="description">
+				<small>{{ book.description.substring(0, 100) }}...</small>
+			</div>
+			<div class="price">Buy it for <strong>${{ book.price }}</strong></div>
+			<br>
+			<a routerLink="book/{{book._id}}" class="btn btn-primary btn-block">View Book</a>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+<div class="container" *ngIf="book">
+	<div class="col-md-4 col-sm-4">
+		<img src="{{ book.cover }}" width="100%">
+	</div>
+
+	<div class="col-md-8 col-sm-8">
+		<h2 class="well" style="text-align: center">{{ book.title }}</h2>
+		<ul class="bookInfo">
+			<li>Category: {{ book.category }}</li>
+			<li>Author: {{ book.author }}</li>
+			<li>Publisher: {{ book.publisher }}</li>
+		</ul>
+		<br>
+		<div class="price" style="font-size: 20px"><strong>By it for: ${{ book.price }}</strong></div>
+		<p>{{ book.description }}</p>
+		<a class="btn btn-success" (click)="addToCart()">Add To Cart</a>
+	</div>
+	<p></p>
+</div>

@@ -1,0 +1,25 @@
+<div class="container">
+	<h1>Add Book</h1>
+	<p>Title</p>
+	<input [(ngModel)]="title" type="text" class="form-control">
+
+	<p>Author</p>
+	<input [(ngModel)]="author" type="text" class="form-control">
+
+	<p>Publisher</p>
+	<input [(ngModel)]="publisher" type="text" class="form-control">
+
+	<p>Price</p>
+	<input [(ngModel)]="price" type="text" class="form-control">
+
+	<p>Category</p>
+	<input [(ngModel)]="category" type="text" class="form-control">
+
+	<p>Description</p>
+	<textarea [(ngModel)]="description" class="form-control" rows="3"></textarea>
+
+	<p>Cover URL</p>
+	<input [(ngModel)]="cover" type="text" class="form-control">
+
+	<Button (click)="addBook()" class="btn btn-primary">Submit</Button>
+</div>
